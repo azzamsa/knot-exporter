@@ -1,3 +1,8 @@
+ 📢 **PSA**: The development continue at `BiznetGIO/knot-exporter`_
+
+.. _BiznetGIO/knot-exporter: https://github.com/BiznetGIO/knot-exporter
+
+
 knot_exporter
 =============
 
